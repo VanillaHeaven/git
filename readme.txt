@@ -1,4 +1,6 @@
 Git is a version control system.
 Git is free software.
-Tommorow is beatiful.
+Tommorow is sometimes beatiful.
 Yesteday is never back.
+Now is treasure.
+
